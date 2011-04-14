@@ -1,0 +1,21 @@
+{
+	meta: {
+		code: 200
+	},
+	response: {
+		friends: {
+			count: 1,
+			items: [
+				{
+					id: "6012607",
+					firstName: "kai",
+					lastName: "peng",
+					photo: "https://playfoursquare.s3.amazonaws.com/userpix_thumbs/MC2TTC1MA2JEENVT.png",
+					gender: "male",
+					homeCity: "Philadelphia, PA",
+					relationship: "friend"
+				}
+			]
+		}
+	}
+}

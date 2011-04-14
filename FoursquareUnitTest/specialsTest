@@ -1,0 +1,50 @@
+{
+	meta: {
+		code: 200
+	},
+	response: {
+		specials: {
+			count: 23,
+			items: [
+			{
+				id: "4d7a372026c260fc94d3c03c",
+				type: "frequency",
+				message: "Check in at RadioShack for 10% off qualifying purchases. Check in enough times to earn a spot as Mayor of this store and get 20% off! Ends 4/11/11. Some exclusions apply. Ask associate for details.",
+				icon: "check-in",
+				title: "Check-in Special",
+				provider: "foursquare",
+				redemption: "standard",
+				venue: {
+					id: "4cb38bf20cdc721ea943234f",
+					name: "RadioShack",
+					contact: { },
+					location: {
+						address: "57-36 Myrtle Ave",
+						city: "Glendale",
+						state: "NY",
+						postalCode: "11385",
+						lat: 40.700397,
+						lng: -73.9023299,
+						distance: 201
+					},
+					categories: [
+						{
+							id: "4bf58dd8d48988d122951735",
+							name: "High Tech Outlets",
+							icon: "http://foursquare.com/img/categories/shops/technology.png",
+							parents: [
+								"Shops"
+							],
+							primary: true
+						}
+					],
+					verified: true,
+					stats: {
+						checkinsCount: 32,
+						usersCount: 22
+					}
+				}
+			}]
+		}
+	}
+}
